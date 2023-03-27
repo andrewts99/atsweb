@@ -97,7 +97,7 @@
                         }else{
                             console.log("invalid")
                         }
-                    }
+                    }node server.js
                     $("#contact-form input,textarea").on( "change", function() {
                         var form = ConvertFormToJSON($('#contact-form'));
                         validateForm(form);

@@ -1,15 +1,17 @@
 ---
   - item: ABOUT
     slug: about
-  - item: LAMELLA
-    slug: lamella
-  - item: FLUX
-    slug: flux
-  - item: PIXELS
-    slug: pixels
-  - item: NED
-    slug: ned
+  - item: MINIMAL_VESSELS
+    slug: minimal_vessels
   - item: EXHIBITIONS
     slug: exhibitions
+  - item: RHYTHM
+    slug: rhythm
+  - item: NEBULA
+    slug: nebula
+  - item: SCULPTURE
+    slug: sculpture
+  - item: STUDIO
+    slug: studio
   - item: CONTACT
     slug: contact
