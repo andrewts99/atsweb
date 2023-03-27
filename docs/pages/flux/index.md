@@ -1,6 +1,6 @@
-## Flux Installation 
+## Made for the Rhythm 
 <div class="inset">
-Twenty-four 5 cm x 5 cm oil paintings on wood. The front surface of each painting is slightly angled either up, down left or right like the tesserae in a Romanesque mosaic, and they are individually attached to the wall.
+Immersive event.
 </div>
 
 <img class="asyncImage" src="img/Flux_Straight_on_sm.jpg"
