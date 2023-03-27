@@ -13,7 +13,9 @@ andrewtemplesmith. com
         Oil on paper, framed
         40 cm x 52.5 cm
 
- 5. Run node server and check that it looks ok.
+ # View website locally
+ 1. Run node server and check that it looks ok. In terminal, type: node server.js
+ 2. Open a browser and run the url localhost:3000
 
 
 
