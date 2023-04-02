@@ -16,7 +16,7 @@ Andrew’s work is divided into a number of different series which vary from for
 
 Evidence of process is an important consideration and the memory of the hand is still visible in the final works and is a vital part of their nature. Working with the minimal use of tools allows Andrew to investigate the balance between control and the element of chance and how these seemingly opposite qualities can be combined in a complementary way.
 
-©2022 Andrew Temple Smith 
+©2023 Andrew Temple Smith 
 
 
 ## Media / Links
