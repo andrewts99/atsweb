@@ -1,4 +1,4 @@
-## Minimalis Vessels 
+## Minimal Vessels 
 <div class="inset">
 Minimalist vessels made from white, terracotta and black stoneware. The white vessels have a fine surface layer of terra sigillata.
 </div>
