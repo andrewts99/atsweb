@@ -18,17 +18,22 @@ Evidence of process is an important consideration and the memory of the hand is 
 
 ©2023 Andrew Temple Smith 
 
+# Bio
+
+After graduating from his first degree in Environmental Sciences at the University of East Anglia, Andrew did research work at Friends of the Earth and later taught English at a secondary school in Sudan where he lived in a mud hut and learnt the art of living simply. 
+
+Financial imperatives drew Andrew into a career in IT consultancy. Searching for a creative outlet in addition to work, Andrew began the part time study of ceramics at City and Islington College in 2004. Since moving to Bath with his family in 2005, he has continued his ceramic practice from his own studio. In 2011 he began an MA in Ceramics from Bath Spa University, which he completed with a distinction. The master’s degree brought a much greater understanding of the potential of ceramics and lead to a move from domestic work to contemplative pieces and sculptural forms.
+
+Ceramics is a confluence of form and surface, and Andrew puts his science background to use in developing a wide variety of new surface treatments for ceramics including glazes, engobes, slips and terra sigillata.
+
 
 ## Media / Links
 
 <div class="text-center">
 
+[Gallery Nine](https://www.galleryninebath.com/andrew-temple-smith/)
 
 [Saatchi Art](https://www.saatchiart.com/andrewtemplesmith/)
-
-[Gallery Nine](https://https://www.galleryninebath.com/andrew-temple-smith/)
-
-[Tighnabruaich Gallery](https://www.tiggallery.com/artists/andrew-temple-smith/)
 
 [homify](https://www.homify.co.uk/professionals/48454/andrew-temple-smith-ceramics)
 
