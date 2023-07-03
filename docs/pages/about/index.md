@@ -3,7 +3,7 @@
           <div >
                <img class="asyncImage nomargin" src="img/Lacuna_sm.jpg" alt="Lacuna ceramic sculpture"/>
           </div>
-          <div class="caption text-center">Lacuna, Stoneware, 37 cm x 22 cm
+          <div class="caption text-center">Lacuna, Stoneware, 39 cm x 14 cm
           </div>
      </div>
 </div>
