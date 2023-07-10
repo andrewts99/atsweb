@@ -4,91 +4,66 @@
       Antrum
       Stoneware
       15cm x 13cm
-    price: 345
-    status: forsale  
   - img: img/blade_1_front_sm.jpg  
     wide: true
     alt: |
       Blade I, front
       Stoneware
       19cm x 7cm
-    price: 300
   - img: img/blade_1_left_side_sm.jpg
     alt: |
       Blade I, left side
       Stoneware
       19cm x 7cm
-    price: 300
-    status: forsale  
   - img: img/blade_1_right_side_sm.jpg
     wide: true
     alt: |
       Blade I, right side
       Stoneware
       19cm x 7cm
-    price: 300
-    status: forsale  
   - img: img/hollow_form_front_sm.jpg
     alt: |
       Hollow form, front
       Stoneware
       15cm x 12cm
-    price: 300
-    status: forsale 
   - img: img/hollow_form_back_sm.jpg
     alt: |
       Hollow form, back
       Stoneware
       15cm x 12cm
-    price: 300
-    status: forsale  
   - img: img/knot_1_sm.jpg
     alt: |
       Knot
       Stoneware
       23cm x 12cm
-    price: 300
-    status: forsale  
   - img: img/large_lacuna_form_sm.jpg
     alt: |
       Large Lacuna form
       Stoneware
       39cm x 14cm
-    price: 750
-    status: forsale  
   - img: img/mobius_1_sm.jpg
     alt: |
       Mobius
       Stoneware
       15 cm x 4.5cm
-    price: 345
-    status: forsale  
   - img: img/soma_1_sm.jpg
     alt: |
       Soma I
       Stoneware
       26cm x 8cm
-    price: 320
-    status: forsale  
   - img: img/soma_2_front_sm.jpg
     alt: |
       Soma II, front
       Stoneware
       35cm x 18cm
-    price: 1100
-    status: forsale  
   - img: img/soma_2_back_sm.jpg
     alt: |
       Soma II, back
       Stoneware
       35cm x 18cm
-    price: 1100
-    status: forsale  
   - img: img/soma_2_detail_sm.jpg
     alt: |
       Soma II, detail
       Stoneware
       35cm x 18m
-    price: 1100
-    status: forsale  
 
