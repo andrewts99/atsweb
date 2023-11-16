@@ -5,6 +5,7 @@
 </section>
 <section class="mb-4" id='contact-form-section'>
     <h1>Contact Us</h1>
+    email me at andrewtemplesmith@gmail.com
     <!--Section description-->
     <div class="row">
         <!--Grid column-->
